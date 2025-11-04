@@ -1,7 +1,7 @@
 html, body {
   height: 100%;
-  margin: 0;        /* tira margens padrão do navegador */
-  padding: 0px;     /* tira espaçamentos padrão */
+  margin: 0;
+  padding: 0px;
 }
 
 body {
