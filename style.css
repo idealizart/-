@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  margin: 0;        /* tira margens padrão do navegador */
+  padding: 0px;     /* tira espaçamentos padrão */
+}
+
+body {
+  background-image: url('https://i.postimg.cc/SNPvHczm/fundo-gradiente-desfocado-na-cor-rosa-58702-1643.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#titulo {
+  color: pink;
+  font-family: Times New Roman;
+  position: relative;
+  display: flex;
+  padding: 75px;
+  justify-content: center;
+  align-items: center;
+}
